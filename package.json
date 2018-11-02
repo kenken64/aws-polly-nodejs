@@ -1,0 +1,22 @@
+{
+  "name": "aws-polly-s3-nodejs-example",
+  "version": "1.0.0",
+  "description": "Example Noda.js script thats uses AWS Polly to convert a string to audo and saves the result to an S3 bucket for play back later.",
+  "main": "aws-polly-example.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavidPackman/aws-polly-s3-nodejs-example.git"
+  },
+  "author": "Kenneth Phang <kenneth.phang@acorncodinglab.com> (https://github.com/kenken64/fitbit-oauth2/wiki)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DavidPackman/aws-polly-s3-nodejs-example/issues"
+  },
+  "homepage": "https://github.com/DavidPackman/aws-polly-s3-nodejs-example#readme",
+  "dependencies": {
+    "aws-sdk": "^2.347.0"
+  }
+}
